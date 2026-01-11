@@ -1,6 +1,6 @@
-# Champify Support Website
+# Tournament & Bracket Maker - Support Website
 
-Support page for Tournament Maker: Champify app, required for App Store Connect.
+Support page for Tournament & Bracket Maker app, required for App Store Connect.
 
 ## Deployment Options
 
